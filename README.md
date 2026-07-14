@@ -15,11 +15,11 @@ Website: **[ahmadamin.net](https://ahmadamin.net)**
 <br/>
 
 ## 🧑‍💻 Projects
-- **[Keylogger](https://github.com/AhmadAmin5/Keylogger) →** Keylogging malware for Windows bypassing Windows 11 Windows Defender along with C2 server (educational-purposed)
+- **[Keylogger](https://github.com/AhmadAmin5/Keylogger) →** Keylogging malware for Windows bypassing Windows Defender along with C2 server (educational-purposed)
 
 - **[Keylogger Detector](https://github.com/AhmadAmin5/Keylogger-Detector) →** Custom-engineered low-level heuristic Keylogger Detector for Windows C++ based
 
-- **[Corpsite Frontend](https://github.com/AhmadAmin5/CorpSite-Frontend) →** Custom-coded corporation website frontend with CMS and roles architecture based on React.js with modern UI | [Live](https://corpsite-teal.vercel.app)
+- **[Corpsite Frontend](https://github.com/AhmadAmin5/CorpSite-Frontend) →** Custom-coded corporation website frontend with CMS and roles architecture with modern UI | [Live](https://corpsite-teal.vercel.app)
 
 - **[Corpsite Backend](https://github.com/AhmadAmin5/CorpSite-Backend) →** Roles-based Content Management System backend for corporation site based on Nodejs
 
